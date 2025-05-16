@@ -1,0 +1,10 @@
+deep_translator==1.11.4
+googletrans==4.0.0rc1
+matplotlib==3.10.3
+pandas==2.2.3
+Sastrawi==1.0.1
+Sastrawi==1.0.1
+scikit_learn==1.6.1
+seaborn==0.13.2
+transformers==4.51.3
+wordcloud==1.9.4
